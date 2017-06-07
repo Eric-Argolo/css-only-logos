@@ -1,9 +1,9 @@
 # css-only-logos
-Brands logos, icons and symbols done with css only
+Brands logos, icons and symbols done with css only <br>
 Inspired by: https://codepen.io/hjdesigner/pen/ybyqvj
 
 (pt-BR)
-Logos de marcas, ícones e símbolos refeitos apenas com CSS
+Logos de marcas, ícones e símbolos refeitos apenas com CSS <br>
 Inspirado por: https://codepen.io/hjdesigner/pen/ybyqvj
 
 # List
