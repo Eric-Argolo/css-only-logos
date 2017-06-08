@@ -1,9 +1,12 @@
 # css-only-logos
-Famous brands logos done with css only
+Brands logos, icons and symbols done with css only <br>
+Inspired by: https://codepen.io/hjdesigner/pen/ybyqvj
 
-pt-BR
-Logos de marcas famosas desenhados usando apenas CSS
-Inspirado em: http://codepen.io/hjdesigner/
+(pt-BR)
+Logos de marcas, ícones e símbolos refeitos apenas com CSS <br>
+Inspirado por: https://codepen.io/hjdesigner/pen/ybyqvj
 
-Lista de logos
-1. Nubank
+# List
+N - Name     - Date of creation - Status <br>
+1 - Nubank   - 06/06/2017       - Done   <br>
+2 - Motorola - 07/06/2017       - Done but can be improved <br>
