@@ -1,0 +1,30 @@
+html{
+  height: 100%;
+}
+
+body{  
+  background: linear-gradient(#4D59E0, #D72584, #FFB455);
+}
+
+.container{
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  top: calc(50% - 150px);
+  left: calc(50% - 250px);
+  border: 5px white solid;
+}
+
+.square{
+  width: 200px;
+  height: 200px;
+  border: 10px white solid;
+  border-radius: 10%;
+  position: absolute;
+  left: 140px;
+  top: 40px;
+}
+
+.lens{
+  
+}
