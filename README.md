@@ -7,6 +7,8 @@ Logos de marcas, ícones e símbolos refeitos apenas com CSS <br>
 Inspirado por: https://codepen.io/hjdesigner/pen/ybyqvj
 
 # List
-N - Name     - Date of creation - Status <br>
-1 - Nubank   - 06/06/2017       - Done   <br>
-2 - Motorola - 07/06/2017       - Done but can be improved <br>
+N - Name      - Status <br>
+1 - Nubank    - Done   <br>
+2 - Motorola  - Done but can be improved <br>
+3 - McDonalds - Done <br>
+4 - Instagram - Done <br>

@@ -18,13 +18,30 @@ body{
 .square{
   width: 200px;
   height: 200px;
-  border: 10px white solid;
-  border-radius: 10%;
+  border: 20px white solid;
+  border-radius: 25%;
   position: absolute;
-  left: 140px;
-  top: 40px;
+  left: 130px;
+  top: 30px;
 }
 
 .lens{
-  
+  border: 20px white solid;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+
+  position: absolute;
+  left: 40px;
+  top: 40px;
+}
+
+.flash{
+  background-color: white;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  position: absolute;
+  left: 160px;
+  top: 20px;
 }
