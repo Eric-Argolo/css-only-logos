@@ -12,3 +12,4 @@ N - Name      - Status <br>
 2 - Motorola  - Done but can be improved <br>
 3 - McDonalds - Done <br>
 4 - Instagram - Done <br>
+5 - Slack     - Done <br>
