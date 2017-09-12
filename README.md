@@ -14,3 +14,4 @@ N - Name      - Status <br>
 4 - Instagram - Done <br>
 5 - Slack     - Done <br>
 6 - Facebook  - Done <br>
+7 - Steam     - Done <br>
