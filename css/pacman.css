@@ -2,8 +2,8 @@ body {
 	background-color: black;
 }
 
-.container {
-	position: absolute;  
+.container{
+	position: absolute;
   left: calc(50% - 250px);
   top: calc(50% - 150px);
 
@@ -13,4 +13,52 @@ body {
   border: 5px #0000AF solid;
   background-color: black;
   border-radius: 10px;
+}
+
+.pacman{
+  position: absolute;
+  left: calc(50% - 130px);
+  top: calc(50% - 100px);
+  width: 0;
+  height: 0;
+
+  border-right: 100px solid transparent;
+  border-left: 100px solid #E9E900;
+  border-top: 100px solid #E9E900;
+  border-bottom: 100px solid #E9E900;
+   
+  border-radius: 100px;
+}
+
+.dot1{
+  position: absolute;
+  left: calc(50% + 30px);
+  top: calc(50% - 10px);
+
+  width: 20px;
+  height: 20px;
+
+  background-color: white;
+}
+
+.dot2{
+  position: absolute;
+  left: calc(50% + 80px);
+  top: calc(50% - 10px);
+
+  width: 20px;
+  height: 20px;
+
+  background-color: white;
+}
+
+.dot3{
+  position: absolute;
+  left: calc(50% + 130px);
+  top: calc(50% - 10px);
+
+  width: 20px;
+  height: 20px;
+
+  background-color: white;
 }

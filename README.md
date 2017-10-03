@@ -16,3 +16,4 @@ N - Name       - Status <br>
 6 - Facebook   - Done <br>
 7 - Steam      - Done <br>
 8 - Windows 10 - Done <br>
+9 - Pacman     - Done <br>
